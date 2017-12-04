@@ -26,15 +26,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+"deploy": "gh-pages -d build",
+"deploy": "gh-pages -d dist"
 },
 "homepage": "https://foussenii.github.io/todos-list-react-js/"
 }
 
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
-  "main": "index.js",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
