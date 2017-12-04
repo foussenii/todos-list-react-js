@@ -26,8 +26,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-"deploy": "gh-pages -d build",
-"deploy": "gh-pages -d dist"
+"deploy": "gh-pages -d build"
 },
 "homepage": "https://foussenii.github.io/todos-list-react-js/"
 }
